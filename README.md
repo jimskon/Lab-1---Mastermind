@@ -16,7 +16,7 @@ Write the program and test it.
 
 You must have a GitHub repository with the code, which includes a readme. on how to set it up.
 
-#Turn in
+# Turn in
  1. The Design Document
  2. A link to your GitHub Project
  3. A text file with at least 3 complete games playing, showing/testing all features.
