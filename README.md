@@ -10,7 +10,7 @@ Create a design document for you project. This will include:
 
 A design of the user interface. You should specify what the user will see, and how they will input their guesses.
 A list of the features you will support. Such has number of pegs, colors, number or users. User picks colors, computer guesses and computer picks colors, user guesses.
-Create an Object oriented design. Include at least three classes, and for each class give a discription of the variables and the methods for that class. Also create a diagram showing the relationships between the classes.
+Create an Object oriented design. Include at least three classes, and for each class give a description of the variables and the methods for that class. Also create a diagram showing the relationships between the classes.
 ### Part 2
 Write the program and test it.
 
